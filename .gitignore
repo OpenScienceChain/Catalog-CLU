@@ -1,0 +1,9 @@
+__pycache__
+.vscode
+temp
+files
+osc*.json
+resources
+config.json
+.DS_Store
+*.sql

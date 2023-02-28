@@ -1,0 +1,15 @@
+{
+    "db": {
+        "username": "",
+        "password": "",
+        "host": "",
+        "name": ""
+    },
+    "ssh": {
+        "host": "",
+        "port": 22,
+        "username": "",
+        "pkey": "",
+        "bind_address": ""
+    }
+}
