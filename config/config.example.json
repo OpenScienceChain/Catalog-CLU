@@ -11,5 +11,8 @@
         "username": "",
         "pkey": "",
         "bind_address": ""
+    },
+    "osc": {
+        "token": ""
     }
 }
